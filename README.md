@@ -1,4 +1,4 @@
-Ghost Project is a simple yet effective Python tool that combines a high-speed, multi-threaded port scanner with a simulated UDP flood attack module. It's designed to quickly find open ports on a target and then, upon user confirmation, launch a basic stress test.
+Ghost Project is a simple yet effective Python tool that combines a high-speed, multi-threaded port scanner with a UDP flood attack module. It's designed to quickly find open ports on a target and then, upon user confirmation, launch a basic stress test.
 
 ## Legal disclaimer :
 Usage of Ghost Project for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. The author assumes no liability and is not responsible for any misuse or damage caused by this program.
